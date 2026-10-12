@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/Potential Data sources.md",
+                "file": "Kernel/Things to think about.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Potential Data sources"
+              "title": "Things to think about"
             }
           }
         ]
@@ -204,10 +204,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "aad61cc54aa300ae",
+  "active": "3a79749c237f0116",
   "lastOpenFiles": [
-    "Welcome.md",
+    "Bergeron_Econ_593_Proposal.pdf",
+    "Kernel/Fiducial confidence intervals.md",
+    "Experiments/Brazil Pension Program.md",
+    "Kernel/Things to think about.md",
+    "Experiments",
+    "data/Dupas Secondary Data.md",
     "data/Potential Data sources.md",
+    "Kernel",
+    "Welcome.md",
     "data"
   ]
 }
