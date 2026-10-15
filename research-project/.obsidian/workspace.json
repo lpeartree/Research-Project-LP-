@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kernel/Things to think about.md",
+                "file": "Projects/Kernel/Things to think about.md",
                 "mode": "source",
                 "source": false
               },
@@ -206,14 +206,20 @@
   },
   "active": "3a79749c237f0116",
   "lastOpenFiles": [
+    "Projects/Network Meta Analysis",
+    "Projects/One Child",
+    "Projects/IHA",
+    "Projects",
+    "Notes/PhD Lab Notes.md",
+    "Projects/Kernel/Things to think about.md",
+    "Notes",
     "Bergeron_Econ_593_Proposal.pdf",
-    "Kernel/Fiducial confidence intervals.md",
+    "Projects/Kernel/Fiducial confidence intervals.md",
     "Experiments/Brazil Pension Program.md",
-    "Kernel/Things to think about.md",
     "Experiments",
     "data/Dupas Secondary Data.md",
     "data/Potential Data sources.md",
-    "Kernel",
+    "Projects/Kernel",
     "Welcome.md",
     "data"
   ]
